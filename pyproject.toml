@@ -1,0 +1,11 @@
+[project]
+name = "awesome-llm-app"
+version = "0.1.0"
+description = "Awesome llm app demo project learning agent"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agno>=1.7.5",
+    "fastapi>=0.116.1",
+    "google-genai>=1.27.0",
+]
