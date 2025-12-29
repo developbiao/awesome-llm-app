@@ -8,6 +8,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/cozeloop v0.1.6
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.6
 	github.com/coze-dev/cozeloop-go v0.1.11
+	github.com/joho/godotenv v1.5.1
 )
 
 require (
